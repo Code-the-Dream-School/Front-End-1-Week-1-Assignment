@@ -1,4 +1,4 @@
-# Front End 1 Week 2 Assignment Directions
+# Front End 1 Week 1 Assignment Directions
 
 It is time to create something beautiful. Now you are going to create your own **responsive (remember the breakpoints and media query)** css template with all the things you have learned.
 
