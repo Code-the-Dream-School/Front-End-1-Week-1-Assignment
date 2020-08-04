@@ -24,13 +24,13 @@ one with the photo to the right site of the page and another one to the left wit
   *	 **columns:**
 create columns with title at the top or bottom of the picture and leave the paragraph (description) as the last thing.
 
-### It is mandatory to work for any numbers of columns or rows, everything has to be centered and have to wrap all the content
+### It is mandatory that it works for any numbers of columns or rows, and that everything has to be centered and that all content wraps appropriately.
 
 5.	Create a social media navigation (anywhere is fine) with icons
-6.	Create a footer at the end of the page (no needs to be sticky)
-7.	Add more things to make it better
+6.	Create a footer at the end of the page (no need to be sticky)
+7.	Make it your own.
 8.	Create a github’s repository like:
 Your_user_name.github.io
-And push all the changes into it, also we will be able to see the live site in https://Your_user_name.github.io/ as the demo before. this way we are using github pages
+And push all the changes into it, also we will be able to see the live site in https://Your_user_name.github.io/ like the demo at the beginning.
 
 Create issues on the link below on the parent repo if you are stuck and want to talk about it. You can paste code, tag people and refer to other issues there. Please use it! It will be helpful for mentors and future students to see where common problems are. Link here: https://github.com/Code-the-Dream-School/Front-End-1-Week-1-Make-it-Beautiful/issues
